@@ -2,7 +2,17 @@
 A simple program that draws mouse movements.
 
 ## Installation
-Install the requirements:
+The program has tkinter module dependency.You can following to install the tkinter for python3:
+
+For debian based distribution
+```
+sudo apt-get install python3-tk
+```
+For arch based distributions
+```
+sudo pacman -S tk
+```
+Install the pip requirements:
  ```python
  pip install -r requirements.txt
 ```
