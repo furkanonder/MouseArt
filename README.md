@@ -1,6 +1,9 @@
 ## MouseArt
 A simple program that draws mouse movements.
 
+## Example
+![screenshot](https://github.com/furkanonder/MouseArt/blob/master/screenshot.png)
+
 ## Installation
 The program has tkinter module dependency.You can following to install the tkinter for python3:
 
